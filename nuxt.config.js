@@ -145,9 +145,3 @@ export default {
     ]
 	}
 }
-
-// Sendgrid api key:
-// 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
-
-// Sendinblue api key:
-// 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
