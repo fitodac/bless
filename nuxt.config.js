@@ -68,8 +68,8 @@ export default {
 				host: 'localhost',
 				port: 465,
 				auth: {
-					user: 'contacto@bless.com.uy',
-					pass: '6j$CkQr[LjZc'
+					user: '',
+					pass: ''
 				},
 			},
 		}],
